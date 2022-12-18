@@ -61,7 +61,7 @@ seaborn
 
 ## Integrantes 
 ***
-  + :woman: [Mary](https://github.com/mariferreras)
+  + :woman: [Mari](https://github.com/mariferreras)
   + :woman: [Lourdes](https://github.com/lou8a)
   + :woman: [Ana](https://github.com/Anadalab)
 
