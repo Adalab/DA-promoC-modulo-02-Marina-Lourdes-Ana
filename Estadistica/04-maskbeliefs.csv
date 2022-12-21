@@ -1,0 +1,108 @@
+Timestamp,Boarding,Age,Gender,ResidentialElder,InteractedElder,Restaurant,PreventSpread,Reason,Public
+9/25/2020 15:04:43,Day,16,Female,No,Yes,1,Yes,To protect yourself AND others,Yes
+9/25/2020 15:04:46,Boarding,17,Male,No,No,2,Yes,To protect yourself AND others,Yes
+9/25/2020 15:04:58,Boarding,17,Male,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:05:12,Day,17,Female,No,Yes,2,Yes,To protect yourself AND others,Yes
+9/25/2020 15:05:12,Day,17,Female,No,Yes,2,Yes,To protect yourself AND others,Yes
+9/25/2020 15:05:15,Boarding,18,Male,No,No,0,Yes,To protect other people,No
+9/25/2020 15:05:22,Day,18,Male,No,Yes,3,Yes,To protect other people,Yes
+9/25/2020 15:05:30,Day,18,Male,No,Yes,0,Yes,Because you are required to,Yes
+9/25/2020 15:05:33,Day,17,Female,No,Yes,1,Yes,To protect other people,Yes
+9/25/2020 15:06:16,Boarding,16,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:06:33,Boarding,18,Female,Yes,No,0,Yes,To protect yourself,Yes
+9/25/2020 15:06:35,Boarding,14,Female,No,Yes,6,Yes,To protect yourself AND others,No
+9/25/2020 15:06:40,Boarding,16,Male,No,No,0,Yes,Because you are required to,No
+9/25/2020 15:08:42,Day,17,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:08:51,Boarding,17,Male,No,Yes,0,Yes,To protect other people,No
+9/25/2020 15:09:22,Day,16,Male,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:09:30,Day,15,Male,No,No,1,Yes,Because you are required to,Yes
+9/25/2020 15:10:26,Day,16,Male,Yes,Yes,1,Yes,To protect yourself AND others,Yes
+9/25/2020 15:11:53,Boarding,15,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:11:55,Boarding,16,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:12:18,Boarding,15,Male,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:13:25,Day,18,Female,No,Yes,2,Yes,To protect yourself AND others,No
+9/25/2020 15:14:12,Boarding,15,Female,No,Yes,2,Yes,Because you are required to,No
+9/25/2020 15:14:41,Boarding,17,Male,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:15:13,Boarding,16,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:16:16,Boarding,17,Male,No,Yes,0,No,To protect yourself AND others,Yes
+9/25/2020 15:17:29,Boarding,15,Female,Yes,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:19:02,Day,14,Male,No,Yes,0,Yes,To protect other people,Yes
+9/25/2020 15:21:02,Boarding,16,Male,No,No,0,Yes,To protect yourself AND others,No
+9/25/2020 15:22:13,Day,16,Female,No,Yes,2,Yes,Because you are required to,Yes
+9/25/2020 15:22:33,Boarding,15,Male,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:22:57,Boarding,16,Female,No,Yes,0,Yes,To protect other people,Yes
+9/25/2020 15:24:53,Day,16,Female,No,Yes,0,No,Because you are required to,Yes
+9/25/2020 15:25:36,Boarding,17,Female,No,No,0,Yes,To protect yourself,No
+9/25/2020 15:26:39,Boarding,15,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:31:57,Day,14,Male,Yes,Yes,0,Yes,To protect other people,Yes
+9/25/2020 15:32:37,Day,16,Female,No,Yes,1,Yes,To protect yourself AND others,Yes
+9/25/2020 15:34:23,Day,16,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:36:47,Day,17,Male,No,Yes,2,Yes,To protect yourself AND others,Yes
+9/25/2020 15:36:56,Boarding,17,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:37:01,Day,17,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:38:06,Boarding,18,Other,No,No,12,Yes,To protect yourself AND others,No
+9/25/2020 15:42:46,Day,17,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:42:47,Day,16,Male,No,Yes,1,Yes,To protect yourself,Yes
+9/25/2020 15:46:00,Boarding,17,Female,Yes,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:49:24,Boarding,15,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:49:31,Day,15,Other,No,Yes,1,Yes,To protect yourself AND others,Yes
+9/25/2020 15:49:41,Day,14,Female,Yes,Yes,0,Yes,To protect other people,Yes
+9/25/2020 15:49:48,Day,14,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 15:50:27,Day,17,Female,No,Yes,1,No,Because you are required to,No
+9/25/2020 15:55:31,Boarding,16,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 16:00:02,Boarding,17,Male,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 16:01:56,Boarding,18,Male,No,Yes,0,Yes,To protect yourself,Yes
+9/25/2020 16:01:58,Boarding,15,,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 16:17:04,Boarding,12,Male,No,Yes,0,Yes,To protect other people,Yes
+9/25/2020 16:34:02,Boarding,17,Male,No,Yes,0,Yes,Because you are required to,No
+9/25/2020 16:34:07,Day,16,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 16:44:57,Boarding,16,Male,No,Yes,3,Yes,To protect yourself AND others,Yes
+9/25/2020 16:57:56,Day,16,Female,No,Yes,1,Yes,To protect yourself AND others,Yes
+9/25/2020 17:26:15,Day,14,Female,Yes,Yes,2,No,Because you are required to,No
+9/25/2020 17:28:19,Boarding,18,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 17:29:12,Boarding,16,Male,No,No,1,Yes,To protect yourself AND others,No
+9/25/2020 17:30:16,Boarding,17,Male,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 17:44:33,Day,16,Female,No,Yes,1,Yes,To protect other people,Yes
+9/25/2020 18:12:37,Boarding,15,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 18:20:51,Day,17,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 18:46:14,Day,17,Male,No,Yes,0,Yes,To protect other people,Yes
+9/25/2020 18:52:16,Day,14,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 19:05:46,Day,18,Female,Yes,Yes,4,No,To protect yourself AND others,Yes
+9/25/2020 19:17:12,Day,16,Male,No,Yes,0,No,Because you are required to,No
+9/25/2020 19:40:54,Boarding,17,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/25/2020 19:55:06,Day,16,Female,No,No,0,Yes,To protect other people,Yes
+9/25/2020 20:35:00,Boarding,15,Male,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 21:28:02,Day,16,Female,No,Yes,1,Yes,To protect yourself AND others,Yes
+9/25/2020 23:13:51,Boarding,16,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/25/2020 23:25:49,Boarding,16,Male,No,No,3,Yes,To protect yourself AND others,Yes
+9/26/2020 1:08:38,Boarding,15,Male,No,No,,Yes,To protect other people,No
+9/26/2020 4:19:33,Boarding,15,Male,Yes,Yes,1,Yes,To protect yourself AND others,Yes
+9/26/2020 7:20:44,Boarding,14,Male,No,No,0,Yes,To protect yourself AND others,Yes
+9/26/2020 7:30:59,Boarding,15,Male,No,No,0,Yes,To protect other people,Yes
+9/26/2020 9:39:50,Day,16,Female,No,Yes,1,Yes,To protect yourself AND others,Yes
+9/26/2020 10:07:28,Boarding,17,Male,No,No,0,Yes,To protect other people,Yes
+9/26/2020 11:37:30,Boarding,18,Male,Yes,No,0,Yes,To protect yourself AND others,Yes
+9/26/2020 12:09:46,Boarding,14,Female,No,No,0,Yes,To protect yourself AND others,Yes
+9/26/2020 13:04:35,Day,14,Female,No,Yes,0,Yes,To protect other people,No
+9/26/2020 14:28:46,Boarding,15,Female,No,Yes,1,Yes,To protect yourself,Yes
+9/26/2020 14:32:11,Day,18,Male,No,Yes,4,Yes,Because you are required to,No
+9/26/2020 15:23:25,Day,17,Male,Yes,Yes,0,Yes,To protect yourself AND others,Yes
+9/26/2020 16:07:53,Boarding,15,Male,No,No,0,Yes,To protect yourself AND others,Yes
+9/26/2020 17:35:28,Day,15,Female,No,No,0,Yes,To protect other people,Yes
+9/26/2020 22:44:57,Boarding,16,Female,No,No,0,No,Because you are required to,Yes
+9/27/2020 10:49:15,Boarding,14,Male,No,No,0,Yes,To protect yourself AND others,Yes
+9/27/2020 13:13:19,Boarding,17,Female,No,Yes,1,Yes,To protect yourself AND others,Yes
+9/27/2020 18:10:25,Day,15,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/27/2020 18:28:45,Boarding,15,Male,Yes,Yes,0,Yes,To protect yourself AND others,Yes
+9/27/2020 18:45:08,Boarding,14,Female,No,No,0,Yes,To protect others but also because I'm required to,No
+9/27/2020 19:54:16,Boarding,15,Female,No,Yes,0,Yes,To protect other people,Yes
+9/27/2020 21:27:43,Boarding,16,Male,No,No,0,Yes,To protect yourself,No
+9/27/2020 23:54:25,Day,17,Female,No,Yes,0,Yes,To protect yourself AND others,Yes
+9/28/2020 0:01:40,Boarding,17,Female,No,Yes,0,Yes,To protect other people,Yes
+9/28/2020 10:31:37,Boarding,17,Male,No,No,,Yes,Because you are required to,Yes
+9/28/2020 10:43:34,Day,14,Female,No,Yes,2,Yes,To protect yourself AND others,Yes
+9/28/2020 10:56:47,Boarding,17,Female,No,No,7,Yes,To protect yourself AND others,Yes
+9/28/2020 12:08:13,Boarding,15,Male,No,No,1,Yes,To protect yourself AND others,Yes
+9/28/2020 13:12:01,Boarding,15,Male,Yes,Yes,0,Yes,To protect yourself AND others,No
+9/28/2020 23:27:53,Boarding,16,Male,No,No,0,Yes,To protect yourself AND others,Yes
+9/29/2020 9:56:52,Day,16,Female,No,Yes,2,Yes,To protect yourself AND others,No
