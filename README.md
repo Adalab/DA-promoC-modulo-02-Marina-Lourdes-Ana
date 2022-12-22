@@ -52,10 +52,16 @@
 
 :snowflake: Se necesitarán las librers:
 ```
+datetime
 os
-panda
+matplotlib
 numpy
+panda
+pickle
+regex
+re
 seaborn
+scipy
 ```
 
 
